@@ -61,7 +61,7 @@ group :development, :test do
   gem "factory_bot_rails"
 
   # rspec-rails is a testing framework for Rails 5+.
-  gem "rspec-rails", "~> 6.0.0"
+  gem "rspec-rails", "~> 6.1.0"
 
   # Ruby Style Guide, with linter & automatic code fixer
   gem "standard"
